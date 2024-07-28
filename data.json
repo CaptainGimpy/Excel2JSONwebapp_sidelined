@@ -1,0 +1,20 @@
+[
+  { "Season": "Spring", "Year": 2000, "Releases": 28.0 },
+  { "Season": "Spring", "Year": 2008, "Releases": 1.0 },
+  { "Season": "Spring", "Year": 2009, "Releases": 4.0 },
+  { "Season": "Spring", "Year": 2010, "Releases": 2.0 },
+  { "Season": "Spring", "Year": 2011, "Releases": 9.0 },
+  { "Season": "Spring", "Year": 2012, "Releases": 98.0 },
+  { "Season": "Spring", "Year": 2013, "Releases": 91.0 },
+  { "Season": "Spring", "Year": 2014, "Releases": 121.0 },
+  { "Season": "Summer", "Year": 2005, "Releases": 8.0 },
+  { "Season": "Summer", "Year": 2007, "Releases": 5.0 },
+  { "Season": "Summer", "Year": 2012, "Releases": 64.0 },
+  { "Season": "Summer", "Year": 2013, "Releases": 51.0 },
+  { "Season": "Summer", "Year": 2014, "Releases": 57.0 },
+  { "Season": "Fall", "Year": 2010, "Releases": 3.0 },
+  { "Season": "Fall", "Year": 2011, "Releases": 17.0 },
+  { "Season": "Fall", "Year": 2012, "Releases": 55.0 },
+  { "Season": "Fall", "Year": 2013, "Releases": 130.0 },
+  { "Season": "Fall", "Year": 2014, "Releases": 135.0 }
+]

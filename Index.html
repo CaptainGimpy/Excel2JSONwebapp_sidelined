@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pandora Jewelry Catalog Form</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Pandora Jewelry Catalog Form</h1>
+    <form id="jewelryForm">
+        <label for="season">Season:</label>
+        <input type="text" id="season" name="season" required><br><br>
+
+        <label for="year">Year:</label>
+        <input type="number" id="year" name="year" required><br><br>
+
+        <label for="releases">Releases:</label>
+        <input type="number" id="releases" name="releases" required><br><br>
+
+        <button type="submit">Submit</button>
+    </form>
+
+    <button id="loadDataButton">Load Data</button>
+
+    <h2>Data Table</h2>
+    <table id="data-table" border="1">
+        <thead>
+            <tr>
+                <th>Season</th>
+                <th>Year</th>
+                <th>Releases</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Data will be populated here by script.js -->
+        </tbody>
+    </table>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
